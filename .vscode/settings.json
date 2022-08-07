@@ -1,0 +1,4 @@
+{
+    "circuitpython.board.vid": "0x239A",
+    "circuitpython.board.pid": "0x80CA"
+}
