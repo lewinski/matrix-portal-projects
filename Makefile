@@ -6,3 +6,6 @@ conway:
 
 fire:
 	cp fire.py /Volumes/CIRCUITPY/code.py
+
+plasma:
+	cp plasma.py /Volumes/CIRCUITPY/code.py
